@@ -2,5 +2,5 @@
 some useful python script
 
 
-## renameFiles
+## 1、renameFiles
 批量重命名文件
